@@ -1,0 +1,10 @@
+{
+  "name" : "Cnet",
+  "network" : "tcp4",
+  "ip" : "0.0.0.0",
+  "port" : 9005,
+  "max_connect_num" : 100000,
+  "task_work_num" : 10,
+  "work_buffer" : 20,
+  "accept_time_out" : 60
+}
